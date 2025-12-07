@@ -1,16 +1,18 @@
-## Hi there 👋
+##  Aram | Front-End Developer🌐
 
-<!--
-**AramJahanbakhsh/AramJahanbakhsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building clean, modern, and impressive web interfaces.
+I tend to turning ideas into interactive and responsive designs using HTML, CSS, JavaScript and other modern front-end technologies.
 
-Here are some ideas to get you started:
+ Technologies I use🔧:
+• HTML5
+• CSS / Flexbox 
+• JavaScript (ES6+)
+• Git & GitHub
+• Responsive & Mobile-First Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently improving:
+• JavaScript deep concepts
+• React ecosystem
+• Component-based architecture
+
+🤝 I’m open to collaborating on any interesting project.
