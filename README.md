@@ -16,3 +16,5 @@ I tend to turning ideas into interactive and responsive designs using HTML, CSS,
 • Component-based architecture
 
 🤝 I’m open to collaborating on any interesting project.
+
+more about me🍓: https://aramjahanbakhsh.github.io/AramPersonalSite/
